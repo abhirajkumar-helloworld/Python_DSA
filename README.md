@@ -7,6 +7,7 @@ This repository contains my Python Data Structures and Algorithms (DSA) practice
 - Searching
 - Sorting
 - Binary Search
+- Linked List
 - Stacks
 - Queues
 
